@@ -1,3 +1,3 @@
-This repository contains data (`data`) and R code (`scripts`) used to obtain the results described in the article "Estimating COVID-19 excess deaths in the Republic of Belarus". All figures from the article can be found in the `images` folder.
+This repository contains data (`data`) and R code (`scripts`) used to obtain the results described in the article "[Estimating COVID-19 excess deaths in the Republic of Belarus](https://medium.com/@mastitsky/estimating-covid-19-excess-deaths-in-the-republic-of-belarus-316ca80481ed)". All figures from the article can be found in the `images` folder.
 
 If you have any questions regarding this analysis, please get in touch by [email](mailto:info@nextgamesolutions.com) or visit the website [Next Game Solutions](http://nextgamesolutions.com/).
